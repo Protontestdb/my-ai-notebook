@@ -25,8 +25,8 @@ Now that companies are setting up LLMs to autonomously check code before it goes
 ### LLM10: Improper Output Handling
 To prove the PHP bug existed, the AI agents generated working exploit scripts. If an automated security platform ingests these AI-generated payloads and runs them to verify the finding without an isolated sandbox, you end up giving an external LLM RCE on your own testing infrastructure.
 
-### LLM03: Supply Chain Risks & Overreliance
-PHP runs roughly 70% of the web. When a core dependency breaks like this, teams panic. The risk post-PHP2Shell is that engineers will blindly push AI-generated patches to production without peer review just to fix things quickly, potentially introducing worse logic flaws or hallucinations.
+### LLM04: Supply Chain & LLM07: Misinformation (Overreliance on AI-Generated Fixes)
+PHP runs roughly on a large share of the web. When a core dependency breaks like this, teams panic. The risk post-PHP2Shell is that engineers will blindly push AI-generated patches to production without peer review just to fix things quickly, potentially introducing worse logic flaws or hallucinations.
 
 ---
 
