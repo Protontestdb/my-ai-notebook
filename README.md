@@ -10,4 +10,4 @@ A personal space for documenting deep-dives, real-world case studies and technic
 | :--- | :---: |
 | [PHP2Shell: Speed of AI & OWASP Alignment](case-studies/php2shell-speed-of-ai-and-OWASP-alignment.md) | October 23, 2026 |
 | [Going Rogue in the Sandbox: NIST SI Incident Readiness](case-studies/going-rogue-in-the-sandbox-nist-owasp.md) | October 29, 2026 |
-| [Unpacking the CRAFTY FALCON Campaign : The AI Heist](case-studies/Unpacking%20the%20CRAFTY%20FALCON%20Campaign.md) | November 4, 2026 |
+| [Unpacking the CRAFTY FALCON Campaign : The AI Heist](case-studies/Unpacking%20the%20CRAFTY%20FALCON%20Campaign.md) | November 7, 2026 |
